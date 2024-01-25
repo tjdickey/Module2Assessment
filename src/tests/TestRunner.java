@@ -1,7 +1,7 @@
 /**
  * @author TrevorDickey - tjdickey
- * CIS175 - Fall 2023
- * Sep 14, 2023
+ * CIS175 - Spring 2024
+ * Jan 24, 2024
  */
 package tests;
 
